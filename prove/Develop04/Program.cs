@@ -2,8 +2,7 @@ using System;
 
 class Program
 {
-    // Add comments here describing how you exceeded the core requirements!
-    // Example: // I exceeded requirements by making sure no random reflection questions are repeated in a session.
+    
 
     static void Main(string[] args)
     {
