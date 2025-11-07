@@ -38,6 +38,6 @@ class Program
         // Final display after loop ends (either by quitting or finishing)
         Console.Clear();
         Console.WriteLine(scripture.GetDisplayText());
-        Console.WriteLine("\nGood job!");
+        Console.WriteLine("\nGood boy!");
     }
 }
